@@ -7,3 +7,9 @@ const rows = [];
 for (let i = 0; i < count; i = i + 1) {
     console.log(i);
   }
+
+  // first function declaration and call 
+  function padRow() {
+
+  }
+  padRow();
