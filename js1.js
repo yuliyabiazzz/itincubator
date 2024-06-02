@@ -4,3 +4,5 @@ let rows = [];
 
 // this code below changes the last element of an array to 10
 rows[rows.length - 1] = 10;
+
+// test
